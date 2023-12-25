@@ -1,0 +1,40 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-interpretation {
+  font-size: 20px;
+}
+
+input {
+  width: 150px;
+  border: 1px solid black;
+}
+
+.confirm-btn {
+  width: 100px;
+  height: 30px;
+  margin-top: 20px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+}
+
+.posts-block {
+  width: 1000px;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.post {
+  border: 1px solid black;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.comments-btn {
+  width: 150px;
+  height: 20px;
+  background-color: yellow;
+}
